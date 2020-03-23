@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section>
+    <h1>Lectures</h1>
+
+  <data>
+    <heading>Data Integration</heading>
+    <notes>Extensible Markup Language er et text-baserede sprog, som minder meget om HTML. 
+    Der er dog ingen definerede tag at anvende. I stedet, skal man anvende sine egne tags, 
+    som er designet særligt til ens eget behov.</notes>
+  </data>
+
+  <web>
+    <heading>Webprogrammering - Node.js</heading>
+    <notes>Node.js er en platform til at fortolke JavaScript-kode og kører applikationer. Node består af et loop, 
+    som den kører igennem hver gang der bliver lavet en opgave. </notes>
+    <heading3>Asynchronous Read</heading3>
+    <notes>En callback funktion bliver kaldt, når en opgave er gennemført. 
+    Hvilket gør at den forhindre blokering af koden og tillader andet kode at køre i mens. 
+    Ved at anvende en callback funktion i Node.js kan man lave et stort antal af 
+    requests uden at vente på en bestemt funktion som returnere en værdi. </notes>
+  </web>
+</section> 
