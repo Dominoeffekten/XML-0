@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<world>
+    <city>
+        <oldid>21</oldid>
+        <name>Amersfoort</name>
+        <countrycode>NLD</countrycode>
+        <district>Utrecht</district>
+        <population>126270</population>
+    </city>
+    <city>
+        <oldid>21</oldid>
+        <name>Amersfoort</name>
+        <countrycode>NLD</countrycode>
+        <district>Utrecht</district>
+        <population>126270</population>
+    </city>
+    <city>
+        <oldid>1</oldid>
+        <name>Kabul</name>
+        <countrycode>AFG</countrycode>
+        <district>Kabol</district>
+        <population>1780000</population>
+    </city>
+    <city>
+        <oldid>2</oldid>
+        <name>Qandahar</name>
+        <countrycode>AFG</countrycode>
+        <district>Qandahar</district>
+        <population>237500</population>
+    </city>
+
+</world>

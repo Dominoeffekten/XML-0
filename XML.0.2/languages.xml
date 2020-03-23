@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<world>
+    <language>
+        <countrycode>ALB</countrycode>
+        <language>Greek</language>
+        <isofficial>F</isofficial>
+        <percentage>1.8</percentage>
+    </language>
+    <language>
+        <countrycode>ALB</countrycode>
+        <language>Albaniana</language>
+        <isofficial>T</isofficial>
+        <percentage>97.9</percentage>
+    </language>
+    <language>
+        <countrycode>ALB</countrycode>
+        <language>Macedonian</language>
+        <isofficial>F</isofficial>
+        <percentage>0.1</percentage>
+    </language>
+
+</world>

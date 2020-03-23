@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<world>
+    <country>
+        <code>AIA</code>
+        <name>Anguilla</name>
+        <continent>North America</continent>
+        <region>Caribbean</region>
+        <surfacearea>96</surfacearea>
+        <indepyear>1996</indepyear>
+        <population>8000</population>
+        <lifeexpectancy>76.1</lifeexpectancy>
+        <gnp>63.2</gnp>
+        <gnpold></gnpold>
+        <localname>Anguilla</localname>
+        <governmentform>Dependent Territory of the UK</governmentform>
+        <headofstate>Elisabeth II</headofstate>
+        <capital>62</capital>
+        <code2>AI</code2>
+    </country>
+    <country>
+        <code>AFG</code>
+        <name>Afghanistan</name>
+        <continent>Asia</continent>
+        <region>Southern and Central Asia</region>
+        <surfacearea>652090</surfacearea>
+        <indepyear>1919</indepyear>
+        <population>22720000</population>
+        <lifeexpectancy>45.9</lifeexpectancy>
+        <gnp>5976</gnp>
+        <gnpold></gnpold>
+        <localname>Afganistan/Afqanestan</localname>
+        <governmentform>Islamic Emirate</governmentform>
+        <headofstate>Mohammad Omar</headofstate>
+        <capital>1</capital>
+        <code2>AF</code2>
+    </country>
+    <country>
+        <code>AGO</code>
+        <name>Angola</name>
+        <continent>Africa</continent>
+        <region>Central Africa</region>
+        <surfacearea>1246700</surfacearea>
+        <indepyear>1975</indepyear>
+        <population>12878000</population>
+        <lifeexpectancy>38.3</lifeexpectancy>
+        <gnp>6648</gnp>
+        <gnpold>7984</gnpold>
+        <localname>Angola</localname>
+        <governmentform>Republic</governmentform>
+        <headofstate>José Eduardo dos Santos</headofstate>
+        <capital>56</capital>
+        <code2>AO</code2>
+    </country>
+</world>
