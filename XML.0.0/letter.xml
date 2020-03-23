@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<emails>
+    <email>
+        <to>Mum</to>
+        <from>Purky</from>
+        <subject>Greetings</subject>
+        <message>Hello Mums, could you PLEASE send some more money</message>
+    </email>
+</emails>
