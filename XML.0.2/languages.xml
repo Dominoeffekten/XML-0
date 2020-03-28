@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<world>
+<languages>
     <language>
         <countrycode>ALB</countrycode>
         <language>Greek</language>
@@ -20,4 +20,4 @@
         <percentage>0.1</percentage>
     </language>
 
-</world>
+</languages>

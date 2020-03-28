@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<world>
+<continentsd>
     <continent>
         <name>Africa</name>
     </continent>
@@ -22,4 +22,4 @@
     <continent>
         <name>Europe</name>
     </continent>
-</world>
+</continents>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<world>
-    <governmentform>
+<government>
+    <forms>
         <name>Territory of Australia</name>
-    </governmentform>
-    <governmentform>
+    </forms>
+    <forms>
         <name>Nonmetropolitan Territory of France</name>
-    </governmentform>
-    <governmentform>
+    </forms>
+    <forms>
         <name>People's Republic</name>
-    </governmentform>
-    <governmentform>
+    </forms>
+    <forms>
         <name>Nonmetropolitan Territory of New Zealand</name>
-    </governmentform>
-    <governmentform>
+    </forms>
+    <forms>
         <name>Socialistic Republic</name>
-    </governmentform>
-</world>
+    </forms>
+</government>

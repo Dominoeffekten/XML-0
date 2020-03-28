@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-stylesheet type="text/xsl" href="./letter0.xsl"?>
 <emails>
     <email>
         <to>Mum</to>

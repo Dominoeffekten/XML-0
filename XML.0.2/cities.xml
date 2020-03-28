@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<world>
+<cities>
     <city>
         <oldid>21</oldid>
         <name>Amersfoort</name>
@@ -30,4 +30,4 @@
         <population>237500</population>
     </city>
 
-</world>
+</cities>
